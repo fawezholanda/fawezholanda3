@@ -1,1 +1,34 @@
 @import "bootstrap";
+
+.clear {
+  clear: both;
+}
+
+.slogan {
+padding: 20px;
+color: white;
+background-color: #990000;
+text-align: center;
+border: 1px solid #ccc;
+border-color: #f2f2f2;
+border-radius: 10px;
+box-shadow: 1px 1px 2px 0 #d0d0d0;
+font-style: italic;
+font-family: Georgia, serif;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+  margin:0;
+  padding:0;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  color: #404040;
+  text-align: center;
+}
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
