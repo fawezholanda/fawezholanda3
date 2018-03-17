@@ -4,10 +4,10 @@
   clear: both;
 }
 
-.slogan {
+header {
 padding: 20px;
 color: white;
-background-color: #990000;
+background-color: #595959;
 text-align: center;
 border: 1px solid #ccc;
 border-color: #f2f2f2;
@@ -19,6 +19,24 @@ margin-left: auto;
 margin-right: auto;
 }
 
+
+footer {
+padding: 10px;
+color: white;
+background-color: #595959;
+text-align: center;
+border: 1px solid #ccc;
+border-color: #f2f2f2;
+border-radius: 10px;
+box-shadow: 1px 1px 2px 0 #d0d0d0;
+font-style: italic;
+font-family: Georgia, serif;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
 h1 {
   margin:0;
   padding:0;
@@ -28,7 +46,20 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  margin:0;
+  padding:0;
+  font-family: Georgia, serif;
+  font-style: italic;
+  color: #404040;
+  text-align: left;
+  }
+
 div.container {
     width: 100%;
     border: 1px solid gray;
+}
+
+img { 
+    width:100%; 
 }
